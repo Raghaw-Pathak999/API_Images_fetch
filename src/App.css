@@ -1,0 +1,16 @@
+body{
+    background-color: #004e5d;
+    color: white;
+}
+
+.heading{
+    text-align: center;
+    font-size: 40px;
+    font-family:'Courier New', Courier, monospace;;
+    letter-spacing: 0.2em;
+}
+
+.Link{
+    text-decoration: none;
+    color: white;
+  }

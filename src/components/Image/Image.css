@@ -1,0 +1,9 @@
+.ImageClass{
+    width: 250px;
+    height: 200px;
+    border-radius: 15px
+}
+
+.ImageClass:hover{
+    scale: 1.08
+}
